@@ -3,4 +3,4 @@ resources:
     type: GitRepo
     configuration:
       gitProvider: gittest               # Change to your integration
-      path: viveksoundrapandi/project-examples/                 # Change to your repo
+      path: viveksoundrapandi/project-examples                # Change to your repo
