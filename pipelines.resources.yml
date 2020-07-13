@@ -1,0 +1,6 @@
+resources:
+  - name: myAppRepo
+    type: GitRepo
+    configuration:
+      gitProvider: myGitHub               # Change to your integration
+      path: myself/myrepo                 # Change to your repo
