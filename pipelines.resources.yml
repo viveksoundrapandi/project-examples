@@ -1,6 +1,6 @@
 resources:
-  - name: myAppRepo
+  - name: gittest
     type: GitRepo
     configuration:
-      gitProvider: myGitHub               # Change to your integration
-      path: myself/myrepo                 # Change to your repo
+      gitProvider: gittest               # Change to your integration
+      path: viveksoundrapandi/project-examples/                 # Change to your repo
